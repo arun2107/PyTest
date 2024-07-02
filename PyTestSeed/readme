@@ -1,0 +1,2 @@
+ pytest PyTestSeed/PyTest_GoRest_Test.py -s -m regression - for running regression
+ pytest PyTestSeed/PyTest_GoRest_Test.py -s -m sanity - for sanity
